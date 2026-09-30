@@ -1,9 +1,11 @@
 [package]
 name = "activation-fn"
 version = "0.1.0"
-description = "A Rust library for Activation Fn"
+description = "Activation Fn — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/activation-fn"
+repository = "https://github.com/SuperInstance/activation-fn"
 edition = "2021"
+
+keywords = ["activation-fn"]
 
 [dependencies]
